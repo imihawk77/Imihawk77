@@ -21,7 +21,7 @@ ____
 
 ### 📌 Генерация рентгеновских снимков для диагностики пневмонии
 Сравнение VAE, GAN и StyleGAN на датасете PneumoniaMNIST.
-[**Ссылка на проект**]([https://github.com/imihawk77/VAE-GAN-StyleGAN/blob/main/README.md]
+[**Ссылка на проект**](https://github.com/imihawk77/VAE-GAN-StyleGAN/blob/main/README.md)
 **Стек:** Python, PyTorch, MedMNIST, scikit-learn, Plotly, Google Colab + Drive
 
 ___
