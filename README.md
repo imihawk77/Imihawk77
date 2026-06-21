@@ -14,14 +14,16 @@ ___
 ## Мои проекты:
 ### 📌 Ocean_bot
 Создал чат-бот с ChatGPT ля тренировки разговорного английского, который распознаёт голос пользователя, предлагает задания и даёт обратную связь. 
- [**Ссылка на проект**](https://github.com/imihawk77/Ocean_bot)
-**Стек:** Python, OpenAI API, Aiogram v3, Pandas, Aiosqlite, Asyncio
+[**Ссылка на проект**](https://github.com/imihawk77/Ocean_bot)
+
+ **Стек:** Python, OpenAI API, Aiogram v3, Pandas, Aiosqlite, Asyncio
 
 ____
 
 ### 📌 Генерация рентгеновских снимков для диагностики пневмонии
 Сравнение VAE, GAN и StyleGAN на датасете PneumoniaMNIST. [**Ссылка на проект**](https://github.com/imihawk77/VAE-GAN-StyleGAN/blob/main/README.md)
-**Стек:** Python, PyTorch, MedMNIST, scikit-learn, Plotly, Google Colab + Drive
+
+ **Стек:** Python, PyTorch, MedMNIST, scikit-learn, Plotly, Google Colab + Drive
 
 ___
 
